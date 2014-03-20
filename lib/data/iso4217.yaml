@@ -872,11 +872,9 @@ USD:
 UYU:
   code: UYU
   name: Pesos
-  full_name: "Uruguay Pesos"
-  symbol: $U
-  unicode_hex:
-    - 36
-    - 85
+  full_name: "Uruguayan Pesos"
+  symbol: $
+  unicode_hex: 36
 UZS:
   code: UZS
   name: Sums
